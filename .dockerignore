@@ -1,0 +1,7 @@
+__pycache__/*
+images/*
+k8s/*
+venv/*
+.gitignore
+*.sh
+*.md
